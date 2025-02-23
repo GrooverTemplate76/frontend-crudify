@@ -23,7 +23,7 @@ body {
     background-color: var(--body);
 }
 .block {
-    padding: 20px 0;
+    padding: 10px 0;
     touch-action: manipulation;
 }
 .title {
@@ -103,7 +103,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 0px;
+    gap: 20px;
 }
 .form-control {
     background-color: transparent;
