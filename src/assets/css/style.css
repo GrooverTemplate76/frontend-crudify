@@ -103,7 +103,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 125px;
+    gap: 70px;
 }
 .form-control {
     background-color: transparent;
