@@ -41,8 +41,8 @@ function UpdateCardForm() {
                 value={content} // Значение текстового поля привязано к состоянию content
                 onChange={(e) => setContent(e.target.value)} // Обновляем состояние при изменении текста
                 className="form-control"
-                rows="30" 
-                cols="30"
+                rows="25" 
+                cols="25"
                 placeholder="Напишите свои занятия на сегодня..."
             />
             <button className="submit-primary-button" type="submit">Изменить</button>
